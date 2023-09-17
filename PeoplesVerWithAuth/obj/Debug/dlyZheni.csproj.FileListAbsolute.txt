@@ -22,3 +22,4 @@ A:\Новая папка (3)\dlyZheni\obj\Debug\dlyZheni.csproj.CoreCompileInput
 A:\Новая папка (3)\dlyZheni\obj\Debug\dlyZheni.csproj.CopyComplete
 A:\Новая папка (3)\dlyZheni\obj\Debug\dlyZheni.exe
 A:\Новая папка (3)\dlyZheni\obj\Debug\dlyZheni.pdb
+A:\Новая папка (3)\dlyZheni\obj\Debug\dlyZheni.Form3.resources

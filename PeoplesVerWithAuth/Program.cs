@@ -16,7 +16,7 @@ namespace dlyZheni
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form3());
         }
     }
 
@@ -37,5 +37,13 @@ namespace dlyZheni
         public static string Id = "Id";
         public static string Photo1 = "Photo1";
         public static string Photo2 = "Photo2";
+    }
+    static class Login_table
+    {
+        public static string main = "login";
+        public static string Id = "Id";
+        public static string Login = "Login";
+        public static string Password = "Password";
+
     }
 }
