@@ -62,5 +62,20 @@ namespace dlyZheni
             SQL = new SQLiteConnection(GVN.connection);
             await SQL.OpenAsync();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ShowPhoto(2);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ShowPhoto(3);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ShowPhoto(4);
+        }
     }
 }
